@@ -1,0 +1,6 @@
+@Sol_Demos_HostAddress = http://localhost:5205
+
+GET {{Sol_Demos_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
